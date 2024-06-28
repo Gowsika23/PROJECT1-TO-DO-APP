@@ -1,4 +1,4 @@
-# PROJECT1-TO-DO-APP!
+# PROJECT1-TO-DO-LIST-APP!
 
 
 To-Do App
