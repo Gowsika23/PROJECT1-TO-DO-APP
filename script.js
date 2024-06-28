@@ -1,5 +1,3 @@
-
-
 // Get DOM elements
 const taskInput = document.getElementById('task-input');
 const addTaskBtn = document.getElementById('add-task-btn');
