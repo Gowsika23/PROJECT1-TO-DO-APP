@@ -1,40 +1,40 @@
 # PROJECT1-TO-DO-LIST-APP!
 
 
-To-Do App
+"To-Do-List App"
 
-A simple To-Do App built with HTML, CSS, and JavaScript. This app allows users to:
+A simple To-Do-List App built with HTML, CSS, and JavaScript. This app allows users to:
 
 - Add tasks with a checkbox and task name
 - Mark tasks as completed by clicking the checkbox
 - Upload images
 
-Features
+Features:
 
 - Task list with checkboxes and task names
 - Ability to mark tasks as completed
 - Image upload functionality
 - Responsive design
 
-Technologies Used
+Technologies Used:
 
 - HTML
 - CSS
 - JavaScript
 - DOM manipulation
 
-Getting Started
+Getting Started:
 
 1. Clone the repository to your local machine.
 2. Open the index.html file in your web browser.
 3. Start adding tasks and marking them as completed!
 4. Upload images by clicking the "Upload Image" button.
 
-License
+License:
 
 This project is licensed under the MIT License.
 
-Acknowledgments
+Acknowledgments:
 
 Thanks to META AI for creating this To-Do App!
 
